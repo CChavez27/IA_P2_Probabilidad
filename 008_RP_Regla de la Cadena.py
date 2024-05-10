@@ -1,6 +1,5 @@
 #Salazar Chavez Cristian Uriel
 #21310215          
-
 # Probabilidades marginales de los eventos A, B y C
 P_A = 0.6
 P_B_given_A = 0.7
